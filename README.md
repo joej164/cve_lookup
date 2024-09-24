@@ -1,2 +1,9 @@
 # cve_lookup
-Python tool to get all the CVE's and look up know CVE's
+Python tool to get all the CVE's and query known ones
+
+
+# Details
+
+https://www.cve.org/
+
+
